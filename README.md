@@ -1,7 +1,7 @@
 IPC144-S14
 ==========
 
-This is repo contains class examples for students in IPC144-section D, E and F in summer 2014 at Seneca College.  You can view the examples in the browser, but you can also have a copy of it on your matrix account which will allow you to modify and play with the code.
+This is repo contains class examples for students in IPC144-section D, E, F, G and H in summer 2014 at Seneca College.  You can view the examples in the browser, but you can also have a copy of it on your matrix account which will allow you to modify and play with the code.
 
 To get the code contained here on your matrix account:
 
