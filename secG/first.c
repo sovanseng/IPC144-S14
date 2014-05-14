@@ -2,7 +2,11 @@
 
 int main()
 {
-	printf("Hello World\n");
+	int age = 9;	
+	
+	printf("%d\n", age);
+	
+        printf("Hello World\n");
 
 	return 0;
 }
